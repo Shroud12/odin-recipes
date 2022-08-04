@@ -5,11 +5,23 @@
     font-weight: 400;
 }
 
-h1,
+h1{
+    font-size: 25px;
+    font-weight: bold;
+    padding: 20px;
+    margin: 20px;
+    border-style: solid;
+    border-radius: 20px;
+}
+
 h3,
 h4{
     font-weight: bold;
     font-size: 22px;
+    padding:20px;
+    margin:20px;
+    border-style: solid;
+    border-radius: 20px;
 }
 
 a {
@@ -22,8 +34,22 @@ img{
     width: 350px;
     border-style: solid;
     border-radius: 20px;
+    border: 20px;
+    padding-left: 20px;
 }
 
 ul{
-    list-style-type: circle;
+    list-style-type: circle ;
+}
+
+ol{
+    list-style-type: disc;
+}
+p{
+    padding-bottom: 0px;
+    padding-left: 20px;
+}
+footer{
+    padding: 20px;
+    font-size: 20px;
 }
