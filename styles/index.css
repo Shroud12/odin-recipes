@@ -1,0 +1,28 @@
+*{
+    background-color: rgb(255,253,208);
+    font-family: monospace,sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+h1,
+h3,
+h4{
+    font-weight: bold;
+}
+
+a {
+    color:rgb(0, 0, 0);
+    font-weight: 500;
+}
+
+img{
+    height: 270px;
+    width: 350px;
+    border-style: solid;
+    border-radius: 20px;
+}
+
+ul{
+    list-style-type: circle;
+}
