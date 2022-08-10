@@ -53,3 +53,10 @@ footer{
     padding: 20px;
     font-size: 20px;
 }
+#page-curry,
+#page-lassi,
+#page-momo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
